@@ -1,0 +1,83 @@
+[{
+    "id": 1,
+    "image":"../images/arrival-women1-mian.webp",
+    "image1":"../images/arrival-women1-hover.webp",
+    "name":"Silk Co-ord Set-Dyed",
+    "price":4499.00,
+    "actual_price":5499.00,
+    "stock":50
+    
+},
+{
+    "id": 2,
+    "image":"../images/arrival-men1-mian.webp",
+    "image1":"../images/arrival-men1-hover.webp",
+    "name":"Satin Suit",
+    "price":3999.00,
+    "actual_price":4999.00,
+    "stock":50
+    
+},{
+    "id": 3,
+    "image":"../images/arrival-menwatch-main.jpg",
+    "image1":"../images/arrival-menwatch-hover.jpg",
+    "name":"Hugo Boss Chronograph Quartz Watch",
+    "price":20866.00,
+    "actual_price":26866.00,
+    "stock":50
+    
+},
+{
+    "id": 4,
+    "image":"../images/arrival-kids-main.webp",
+    "image1":"../images/arrival-kids-hover.webp",
+    "name":"Boy's Black Hoodie",
+    "price":2200.00,
+    "actual_price":2299.00,
+    "stock":50
+    
+},
+{
+    "id": 5,
+    "image":"../images/Padded Vest-main.webp",
+    "image1":"../images/Padded Vest-hover.webp",
+    "name":"Padded Vest",
+    "price":11995.00,
+    "actual_price":14995.00,
+    "stock":50
+    
+},
+{
+    "id": 6,
+    "image":"../images/Mens Golden chain bracelet-main.webp",
+    "image1":"../images/Mens Golden chain bracelet-hover.webp",
+    "name":"Mens Golden Chain Bracelet",
+    "price":4499.00,
+    "actual_price":5799.00,
+    "stock":50
+    
+},
+{
+    "id": 7,
+    "image":"../images/CROSSBODY BAG-main.webp",
+    "image1":"../images/CROSSBODY BAG-hover.webp",
+    "name":"CROSSBODY BAG",
+    "price":2399.00,
+    "actual_price":3999.00,
+    "stock":50
+    
+},
+{
+    "id": 8,
+    "image":"../images/EMBROIDERED LAWN-main.webp",
+    "image1":"../images/EMBROIDERED LAWN-hover.webp",
+    "name":"EMBROIDERED LAWN",
+    "price":5950.00,
+    "actual_price":7600.00,
+    "stock":50
+
+    
+}
+
+
+]
